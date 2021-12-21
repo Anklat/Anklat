@@ -1,0 +1,16 @@
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.csproj.AssemblyReference.cache
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.AssemblyInfoInputs.cache
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.AssemblyInfo.cs
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.csproj.CoreCompileInputs.cache
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\conservation_of_momentum.exe
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\conservation_of_momentum.deps.json
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\conservation_of_momentum.runtimeconfig.json
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\conservation_of_momentum.runtimeconfig.dev.json
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\conservation_of_momentum.dll
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\ref\conservation_of_momentum.dll
+D:\Coding\c#\conservation_of_momentum\bin\Debug\net5.0\conservation_of_momentum.pdb
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.dll
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\ref\conservation_of_momentum.dll
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.pdb
+D:\Coding\c#\conservation_of_momentum\obj\Debug\net5.0\conservation_of_momentum.genruntimeconfig.cache
